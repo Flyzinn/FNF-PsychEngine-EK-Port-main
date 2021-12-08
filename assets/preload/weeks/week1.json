@@ -1,0 +1,48 @@
+{
+	"storyName": "VS Lucas",
+	"hideFreeplay": false,
+	"weekBackground": "bg1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"lucas",
+		"pixelbf",
+		"pixelgf"
+	],
+	"songs": [
+		[
+			"hello",
+			"lucas",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"skill issue",
+			"lucas",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"anger management",
+			"lucas mad",
+			[
+				0,
+				0,
+				255
+			]
+		]
+	],
+	"weekName": "Lucas"
+}

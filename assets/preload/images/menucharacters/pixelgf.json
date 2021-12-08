@@ -1,0 +1,10 @@
+{
+	"idle_anim": "GF IDLE",
+	"image": "gfPixel",
+	"position": [
+		-146,
+		-110
+	],
+	"scale": 3.45,
+	"confirm_anim": "M Dad Idle"
+}

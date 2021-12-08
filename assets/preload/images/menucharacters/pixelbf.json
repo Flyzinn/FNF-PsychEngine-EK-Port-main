@@ -1,0 +1,10 @@
+{
+	"idle_anim": "BF IDLE instance",
+	"image": "pixelbf",
+	"position": [
+		-76,
+		-170
+	],
+	"scale": 4,
+	"confirm_anim": "M Dad Idle"
+}

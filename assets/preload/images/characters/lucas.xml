@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lucas.png"><SubTexture name="lucas down0000" x="0" y="0" width="50" height="90" frameX="0" frameY="0" frameWidth="50" frameHeight="90" />
+<SubTexture name="lucas idle0000" x="50" y="0" width="50" height="90" frameX="0" frameY="0" frameWidth="50" frameHeight="90" />
+<SubTexture name="lucas idle0001" x="100" y="0" width="50" height="90" frameX="0" frameY="0" frameWidth="50" frameHeight="90" />
+<SubTexture name="lucas idle0002" x="150" y="0" width="50" height="90" frameX="0" frameY="0" frameWidth="50" frameHeight="90" />
+<SubTexture name="lucas left0000" x="0" y="90" width="50" height="90" frameX="0" frameY="0" frameWidth="50" frameHeight="90" />
+<SubTexture name="lucas right0000" x="50" y="90" width="50" height="90" frameX="0" frameY="0" frameWidth="50" frameHeight="90" />
+<SubTexture name="lucas right0001" x="100" y="90" width="50" height="90" frameX="0" frameY="0" frameWidth="50" frameHeight="90" />
+<SubTexture name="lucas up0000" x="150" y="90" width="50" height="90" frameX="0" frameY="0" frameWidth="50" frameHeight="90" />
+<SubTexture name="lucas up0001" x="0" y="180" width="50" height="90" frameX="0" frameY="0" frameWidth="50" frameHeight="90" />
+</TextureAtlas>
