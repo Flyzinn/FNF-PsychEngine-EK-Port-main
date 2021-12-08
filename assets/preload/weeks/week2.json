@@ -1,22 +1,39 @@
 {
-	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
+	"storyName": "oh my god fire! run for your lives! jk jk lol",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
-	"weekCharacters": [
-		"spooky",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "halloween",
-
-	"storyName": "Spooky Month",
-	"weekBefore": "week1",
-	"weekName": "Week 2",
 	"startUnlocked": true,
-
+	"weekCharacters": [
+		"daniel",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Playing With Fire",
+			"daniel",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"Fire Beats",
+			"daniel",
+			[
+				255,
+				255,
+				0
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Custom Week"
 }
